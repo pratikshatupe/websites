@@ -1,4 +1,6 @@
 h2 {
     color: tomato;
     background-color: "aqumarine";
+    border: 2%;
+    border-radius: 0%;
   }
